@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("premier commit")
+        print("2eme commit")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
